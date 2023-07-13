@@ -55,5 +55,4 @@ myDict={
 print(myDict)
 print (myDict["apple"])
 
-
 print("Prueba git")
